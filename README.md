@@ -2,7 +2,7 @@ Olá Meu nome é jefferson L. Alionco. Sou Desenvolvedor de Programas e estou te
 
 Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha interesse esta nos meus repositorios aqui do git.
 
-  * **Veja Meu novo repositorio:**  [Site simples em Python](https://github.com/jeffersonalionco/site-simples-python/)
+  * **Veja Meu Novo repositorio:**  [Site simples em Python](https://github.com/jeffersonalionco/site-simples-python/)
   * **Veja Meu Projeto do Whatsapp:**  [Bot WHATSAPP automatico ](https://github.com/jeffersonalionco/bot-whatsapp) Créditos: `https://github.com/Urbaee`
  
 - 👀 Estou interessado em desenvolver minhas habilidades de programação nos projetos do github.
