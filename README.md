@@ -2,8 +2,9 @@ Olá Meu nome é jefferson L. Alionco. Sou Desenvolvedor de Programas e estou te
 
 Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha interesse esta nos meus repositorios aqui do git.
 
-  * **Veja Meu Novo repositorio:**  [Site simples em Python](https://github.com/jeffersonalionco/site-simples-python/)
-  * **Veja Meu Projeto do Whatsapp:**  [Bot WHATSAPP automatico ](https://github.com/jeffersonalionco/bot-whatsapp) Créditos: `https://github.com/Urbaee`
+  * **Crie um site Facil e simples em Python:**  [Site simples em Python](https://github.com/jeffersonalionco/site-simples-python/)  |   **[AUTOR](https://github.com/jeffersonalionco/jeffersonalionco)**
+  * **Whatsapp Automatico em Python:**  [WPP_Whatsapp automatico](https://github.com/jeffersonalionco/Atendimento-Whatsapp-Python)  |  **[AUTOR](https://github.com/jeffersonalionco/jeffersonalionco)**
+  * **Whatsapp Automatico em NodeJs**  [Bot WHATSAPP automatico ](https://github.com/jeffersonalionco/bot-whatsapp)   | **[AUTOR](https://github.com/jeffersonalionco/jeffersonalionco)** Créditos: `https://github.com/Urbaee`
  
 - 👀 Estou interessado em desenvolver minhas habilidades de programação nos projetos do github.
 - 🌱 Estou aprendendo, Python, Nodejs, CSS, HTML entre outras linguagens de Programação
