@@ -1,3 +1,6 @@
+![Status do Meu GitHub - Jefferson](https://github-readme-stats.vercel.app/api?username=jeffersonalionco&show_icons=true&theme=gruvbox)
+![Status do Meu GitHub - Jefferson](https://github-readme-stats.vercel.app/api?username=jeffersonalionco&show_icons=true&theme=dracula)
+
 Olá Meu nome é jefferson L. Alionco. Sou Desenvolvedor de Programas e estou terminando minha Graduação em **Analise e desenvolvimento de Sistemas**, Terminei alguns cursos de Linguagem de programação como `PYTHON, JAVASCRIPT, PHP` e outras linguagens de marcação e estilização como `CSS e HTML`. Atualmente estou disponivel para auxiliar em projetos pequenos, e se possivel a novas oportunidades de Empregos.
 
 Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha interesse esta nos meus repositorios aqui do git.
