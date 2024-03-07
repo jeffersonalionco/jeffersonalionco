@@ -33,3 +33,19 @@ Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha
 jeffersonalionco/jeffersonalionco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=%20Analise%20e%20Desenvolvimento%20de%20Sistemas&fontAlign=50&fontAlignY=30&fontSize=33&fontColor=FFFFFF&textBg=false&strokeWidth=0&descAlign=49&descAlignY=42&desc=Unipar">
+
+### Minhas Skills:
+![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+
+### Estudando no momento:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
+
