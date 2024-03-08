@@ -46,7 +46,8 @@ You can click the Preview link to take a look at your changes.
 ### Estudando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;<br>
 ![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;<br>
-![Lógica](https://img.shields.io/badge/Materia:-Logica%20de%20Programa%C3%A7%C3%A3o-blue?style=for-the-badge)<br>
+![Lógica](https://img.shields.io/badge/Materia:-Logica%20de%20Programa%C3%A7%C3%A3o-blue?style=for-the-badge&logo=microsoftacademic)<br>
+![Cyber](https://img.shields.io/badge/Materia:-Cyber%20Seguran%C3%A7a-blue?style=for-the-badge&logo=microsoftacademic)<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
