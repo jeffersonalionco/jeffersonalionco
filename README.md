@@ -35,19 +35,29 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=%20Analise%20e%20Desenvolvimento%20de%20Sistemas&fontAlign=50&fontAlignY=30&fontSize=33&fontColor=FFFFFF&textBg=false&strokeWidth=0&descAlign=49&descAlignY=42&desc=Unipar">
 
+<div align="center">
+  
 ### Minhas Skills:
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+
+</div>
+
+<div align="center">
 
 ### Estudando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;<br>
 ![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;<br>
 ![Lógica](https://img.shields.io/badge/Materia:-Logica%20de%20Programa%C3%A7%C3%A3o-blue?style=for-the-badge&logo=microsoftacademic)<br>
 ![Cyber](https://img.shields.io/badge/Materia:-Cyber%20Seguran%C3%A7a-blue?style=for-the-badge&logo=microsoftacademic)<br>
+![Cyber](https://img.shields.io/badge/Materia:-Ambienta%C3%A7%C3%A3o%20Tech-blue?style=for-the-badge&logo=microsoftacademic)<br>
+
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
