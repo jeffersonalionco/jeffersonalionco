@@ -48,5 +48,5 @@ You can click the Preview link to take a look at your changes.
 ![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;<br>
 ![Lógica](https://img.shields.io/badge/Materia:-Logica%20de%20Programa%C3%A7%C3%A3o-blue?style=for-the-badge)<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
