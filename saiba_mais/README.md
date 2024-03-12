@@ -1,5 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=006b1b&text=README&fontSize=50&fontAlign=50&fontAlignY=36&fontColor=edfff2" />
+
 <h1> Dicas para criar seu ReadMe.md com mais detalhes e formatação</h1>
 
+## Contatos:
+
+<div> 
+<a href = "mailto:jeffersonalionco@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jeffersonalionco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://wa.me/5545998331383" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-005415?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+</div>
+<br>
 Vou Escrever como é em código, e depois mais abaixo voce pode ver o resultado de cada um deles
 ```
 
