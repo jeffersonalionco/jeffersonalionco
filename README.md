@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=jeffersonalionco" height="150" alt="languages graph"  />
   
 _______
+</div>
+<div align="center">
 <p align="center">Participe do Fórum Brasilerio para Programadores</p>
 <p align="center">
   <a href="https://github.com/jeffersonalionco/forum-brasil/discussions/"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
@@ -17,6 +19,8 @@ _______
 
 Olá Meu nome é jefferson L. Alionco. Sou Desenvolvedor de Programas e estou terminando minha Graduação em **Analise e desenvolvimento de Sistemas**, Terminei alguns cursos de Linguagem de programação como `PYTHON, JAVASCRIPT, PHP` e outras linguagens de marcação e estilização como `CSS e HTML`. Atualmente estou disponivel para auxiliar em projetos pequenos, e se possivel a novas oportunidades de Empregos.
 
+</div>
+<div>
 Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha interesse esta nos meus repositorios aqui do git.
 
   * **Crie um site Facil e simples em Python:**  [Site simples em Python](https://github.com/jeffersonalionco/site-simples-python/)  |   **[AUTOR](https://github.com/jeffersonalionco/jeffersonalionco)**
@@ -28,14 +32,23 @@ Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha
 - 💞️ Estou procurando colaborar em projetos que aceite pessoas com interesse em aprender e se tornar um senior na programação
 - 
 - 📫 Como chegar até mim, pode entrar em contato pelo telefone 45 998306644 ou pelo E-mail: Jeffersonluchettaalionco@outlook.com
-
-<!---
-jeffersonalionco/jeffersonalionco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  </div>
 
 
 </div>
+
+----
+
+<div>
+  
+<h5 align="center">ALGUMAS DICAS QUE EU CRIEI PARA VOCÊ</h5>
+  
+  <a href="https://github.com/jeffersonalionco/jeffersonalionco/blob/main/saiba_mais/README.md">![Dica 1](https://img.shields.io/badge/Dica%201%20%3E%20-Organize%20seu%20README.md%20%7C%20Aprenda%20a%20deixar%20seu%20perfil%20mais%20elegante%20no%20github,%20espero%20que%20seja%20%C3%BAtil%20para%20seu%20aprendizado-blue?style=for-the-badge&logo=microsoftacademic)</a> 
+  
+</div>
+
+----
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=%20Analise%20e%20Desenvolvimento%20de%20Sistemas&fontAlign=50&fontAlignY=30&fontSize=33&fontColor=FFFFFF&textBg=false&strokeWidth=0&descAlign=49&descAlignY=42&desc=Unipar">
 
 <div align="center">
