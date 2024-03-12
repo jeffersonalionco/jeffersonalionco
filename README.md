@@ -16,13 +16,15 @@ _______
 <a href="https://www.linkedin.com/in/jeffersonalionco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://wa.me/5545998331383" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-005415?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-</DIV>
-<div align="center">
-<p align="center">Participe do Fórum Brasilerio para Programadores</p>
-<p align="center">
-  <a href="https://github.com/jeffersonalionco/forum-brasil/discussions/"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
-</p>
+</div>
 
+<div align="center">
+
+<p >Participe do Fórum Brasilerio para Programadores</p>
+ <a href="https://github.com/jeffersonalionco/forum-brasil/discussions/"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a> 
+
+
+  
 ###
 
 
@@ -37,7 +39,7 @@ Olá Meu nome é jefferson L. Alionco. Sou Desenvolvedor de Programas e estou te
 
 <div>
   
-<h5 align="center">ALGUMAS DICAS QUE EU CRIEI PARA VOCÊ</h5>
+<h5>ALGUMAS DICAS QUE EU CRIEI PARA VOCÊ</h5>
   
   <a href="https://github.com/jeffersonalionco/jeffersonalionco/blob/main/saiba_mais/README.md">![Dica 1](https://img.shields.io/badge/Dica%201%20%3E%20-Organize%20seu%20README.md%20%7C-blue?style=for-the-badge&logo=microsoftacademic)</a> 
   
