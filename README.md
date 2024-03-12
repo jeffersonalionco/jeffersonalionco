@@ -1,4 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=%20Analise%20e%20Desenvolvimento%20de%20Sistemas&fontAlign=50&fontAlignY=30&fontSize=33&fontColor=FFFFFF&textBg=false&strokeWidth=0&descAlign=49&descAlignY=42&desc=Unipar">
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=F71D27&random=false&width=435&lines=Bem+vindo(a)%2C+Meu+nome+%C3%A9+Jefferson;A+baixo+te+mostrarei+mais+detalhes+;sobre+minha+pessoa+e+projetos)](https://git.io/typing-svg)
+
+</div>
 
 ###
 
