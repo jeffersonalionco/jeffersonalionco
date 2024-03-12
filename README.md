@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=%20Analise%20e%20Desenvolvimento%20de%20Sistemas&fontAlign=50&fontAlignY=30&fontSize=33&fontColor=FFFFFF&textBg=false&strokeWidth=0&descAlign=49&descAlignY=42&desc=Unipar">
 
 ###
 
@@ -8,6 +8,15 @@
   
 _______
 </div>
+
+## Contatos:
+
+<div> 
+<a href = "mailto:jeffersonalionco@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jeffersonalionco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.wa.me/5545998331383" target="blank"><img src="https://img.shields.io/badge/-Whatsapp-005415?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+</DIV>
 <div align="center">
 <p align="center">Participe do Fórum Brasilerio para Programadores</p>
 <p align="center">
@@ -20,19 +29,6 @@ _______
 Olá Meu nome é jefferson L. Alionco. Sou Desenvolvedor de Programas e estou terminando minha Graduação em **Analise e desenvolvimento de Sistemas**, Terminei alguns cursos de Linguagem de programação como `PYTHON, JAVASCRIPT, PHP` e outras linguagens de marcação e estilização como `CSS e HTML`. Atualmente estou disponivel para auxiliar em projetos pequenos, e se possivel a novas oportunidades de Empregos.
 
 </div>
-<div>
-Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha interesse esta nos meus repositorios aqui do git.
-
-  * **Crie um site Facil e simples em Python:**  [Site simples em Python](https://github.com/jeffersonalionco/site-simples-python/)  |   **[AUTOR](https://github.com/jeffersonalionco/jeffersonalionco)**
-  * **Whatsapp Automatico em Python:**  [WPP_Whatsapp automatico](https://github.com/jeffersonalionco/Atendimento-Whatsapp-Python)  |  **[AUTOR](https://github.com/jeffersonalionco/jeffersonalionco)**
-  * **Whatsapp Automatico em NodeJs**  [Bot WHATSAPP automatico ](https://github.com/jeffersonalionco/bot-whatsapp)   | **[AUTOR](https://github.com/jeffersonalionco/jeffersonalionco)** Créditos: `https://github.com/Urbaee`
- 
-- 👀 Estou interessado em desenvolver minhas habilidades de programação nos projetos do github.
-- 🌱 Estou aprendendo, Python, Nodejs, CSS, HTML entre outras linguagens de Programação
-- 💞️ Estou procurando colaborar em projetos que aceite pessoas com interesse em aprender e se tornar um senior na programação
-- 
-- 📫 Como chegar até mim, pode entrar em contato pelo telefone 45 998306644 ou pelo E-mail: Jeffersonluchettaalionco@outlook.com
-  </div>
 
 
 </div>
@@ -49,7 +45,6 @@ Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha
 
 ----
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=%20Analise%20e%20Desenvolvimento%20de%20Sistemas&fontAlign=50&fontAlignY=30&fontSize=33&fontColor=FFFFFF&textBg=false&strokeWidth=0&descAlign=49&descAlignY=42&desc=Unipar">
 
 <div align="center">
   
@@ -70,6 +65,7 @@ Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha
 ![Cyber](https://img.shields.io/badge/Materia:-Ambienta%C3%A7%C3%A3o%20Tech-blue?style=for-the-badge&logo=microsoftacademic)<br>
 
 </div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
