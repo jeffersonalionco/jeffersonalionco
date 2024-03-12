@@ -43,7 +43,7 @@ Após essa prévia apresentação, tenho alguns projetos pequenos que caso tenha
   
 <h5 align="center">ALGUMAS DICAS QUE EU CRIEI PARA VOCÊ</h5>
   
-  <a href="https://github.com/jeffersonalionco/jeffersonalionco/blob/main/saiba_mais/README.md">![Dica 1](https://img.shields.io/badge/Dica%201%20%3E%20-Organize%20seu%20README.md%20%7C%20Aprenda%20a%20deixar%20seu%20perfil%20mais%20elegante%20no%20github,%20espero%20que%20seja%20%C3%BAtil%20para%20seu%20aprendizado-blue?style=for-the-badge&logo=microsoftacademic)</a> 
+  <a href="https://github.com/jeffersonalionco/jeffersonalionco/blob/main/saiba_mais/README.md">![Dica 1](https://img.shields.io/badge/Dica%201%20%3E%20-Organize%20seu%20README.md%20%7C-blue?style=for-the-badge&logo=microsoftacademic)</a> 
   
 </div>
 
