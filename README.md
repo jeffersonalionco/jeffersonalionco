@@ -14,7 +14,7 @@ _______
 <div> 
 <a href = "mailto:jeffersonalionco@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jeffersonalionco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.wa.me/5545998331383" target="blank"><img src="https://img.shields.io/badge/-Whatsapp-005415?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://wa.me/5545998331383" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-005415?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 </DIV>
 <div align="center">
