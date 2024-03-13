@@ -46,7 +46,10 @@ Olá Meu nome é jefferson L. Alionco. Sou Desenvolvedor de Programas e estou te
   
 <h5>ALGUMAS DICAS QUE EU CRIEI PARA VOCÊ</h5>
   
-  <a href="https://github.com/jeffersonalionco/jeffersonalionco/blob/main/saiba_mais/README.md">![Dica 1](https://img.shields.io/badge/Dica%201%20%3E%20-Organize%20seu%20README.md%20%7C-blue?style=for-the-badge&logo=microsoftacademic)</a> 
+  <a href="https://github.com/jeffersonalionco/jeffersonalionco/blob/main/saiba_mais/README.md">![Dica 1 ](https://img.shields.io/badge/Dica%201%20%3E%20-Organize%20seu%20README.md%20%7C-blue?style=for-the-badge&logo=microsoftacademic)</a>
+  
+  <a href="https://github.com/jeffersonalionco/jeffersonalionco/blob/main/saiba_mais/SHIELDS.md">![Dica 2 ](https://img.shields.io/badge/Dica%202%20%3E%20-Apreda%20Usar%20o%20Shields.io%20(SELO)-blue?style=for-the-badge&logo=microsoftacademic)</a> 
+  
   
 </div>
 
