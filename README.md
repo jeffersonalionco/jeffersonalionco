@@ -14,21 +14,11 @@
 _______
 </div>
 
-## Contatos:
-
 <div> 
-<a href = "mailto:jeffersonalionco@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jeffersonalionco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://wa.me/5545998331383" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-005415?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+![CONTATOS:](https://img.shields.io/badge/-Contatos:-%23333?style=for-the-badge&logo=headspace&logoColor=white) <a href = "mailto:jeffersonalionco@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jeffersonalionco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> <a href="https://wa.me/5545998331383" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-005415?style=for-the-badge&logo=whatsapp&logoColor=white"></a> </h3>
 
 </div>
-
-<div align="center">
-
-<p >Participe do Fórum Brasilerio para Programadores</p>
- <a href="https://github.com/jeffersonalionco/forum-brasil/discussions/"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a> 
-
-
   
 ###
 
@@ -37,6 +27,21 @@ Olá Meu nome é jefferson L. Alionco. Sou Desenvolvedor de Programas e estou te
 
 </div>
 
+
+</div>
+
+<div align="center">
+
+  
+<br>
+
+  
+<h3>Projetos que eu ajudei a desenvolver! <br>E Projetos que eu mesmo criei</h3>
+
+  
+![The Mystic Bot MD](https://github-readme-stats.vercel.app/api/pin/?username=jeffersonalionco&repo=TheMystic-Bot-MD-ptbr)
+![The Mystic Bot MD](https://github-readme-stats.vercel.app/api/pin/?username=jeffersonalionco&repo=zabbix-email-webhook)
+![The Mystic Bot MD](https://github-readme-stats.vercel.app/api/pin/?username=jeffersonalionco&repo=Zabbix-Zulip-Webhook)
 
 </div>
 
